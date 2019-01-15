@@ -1,0 +1,14 @@
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Persistance.dll
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Persistance.pdb
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Core.dll
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Core.pdb
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.csprojResolveAssemblyReference.cache
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.dll
+D:\Current Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.pdb
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Persistance.dll
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Persistance.pdb
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Core.dll
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\bin\Debug\JavaTracker.Core.pdb
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.csprojResolveAssemblyReference.cache
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.dll
+D:\Old Classes\C#\Final\JavaTracker\JavaTracker.Persistance\obj\Debug\JavaTracker.Persistance.pdb
